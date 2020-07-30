@@ -40,6 +40,27 @@ div { position: absolute; }
 	background-size:cover;
 }
 
+#112 {
+	top: 2045px !important;
+	position: absolute !important;
+	left: 360px;
+	width: 286px;
+	height: 475px;
+	background:url(skins/112.png);
+	background-size:cover;
+}
+
+
+#symbol_3___1 {
+	top: 2106px !important;
+	position: absolute !important;
+	left: 461px;
+	width: 320px;
+	height: 530px;
+	background:url(skins/symbol_3___1.png);
+	background-size:cover;
+}
+
 
 #work {
 	top: 110px;
@@ -895,26 +916,7 @@ div { position: absolute; }
 }
 
 
-#112 {
-	top: 2045px !important;
-	position: absolute !important;
-	left: 360px;
-	width: 286px;
-	height: 475px;
-	background:url(skins/112.png);
-	background-size:cover;
-}
 
-
-#symbol_3___1 {
-	top: 2106px !important;
-	position: absolute !important;
-	left: 461px;
-	width: 320px;
-	height: 530px;
-	background:url(skins/symbol_3___1.png);
-	background-size:cover;
-}
 
 #page_about_me_ek1 {
 	top: 0px;
