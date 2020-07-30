@@ -895,13 +895,13 @@ div { position: absolute; }
 }
 
 
-#_112 {
+#112 {
 	top: 2045px !important;
 	position: absolute !important;
 	left: 360px;
 	width: 286px;
 	height: 475px;
-	background:url(skins/_112.png);
+	background:url(skins/112.png);
 	background-size:cover;
 }
 
