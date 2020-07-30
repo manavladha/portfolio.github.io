@@ -1,0 +1,2797 @@
+/*
+	@name index
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_index_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 4313px;
+	overflow:hidden;
+}
+
+#_bg__index_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 4313px;
+	background:rgba(26,29,32,255);
+}
+
+
+#_112 {
+	top: 2042px !important;
+	position: absolute !important;
+	left: 368px;
+	width: 298px;
+	height: 494px;
+	background:url(skins/_112.png);
+	background-size:cover;
+}
+
+
+#adsds {
+	top: 2045px !important;
+	position: absolute !important;
+	left: 604px;
+	width: 293px;
+	height: 487px;
+	background:url(skins/adsds.png);
+	background-size:cover;
+}
+
+
+#work {
+	top: 110px;
+	left: 789px;
+	width: 55px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#about {
+	top: 110px;
+	left: 919px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#resume {
+	top: 110px;
+	left: 1055px;
+	width: 82px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#hello__my_name_is_manav_ladha_and_i_m_a_product_designer_ {
+	top: 349px;
+	left: 606px;
+	width: 751px;
+	height: 249px;
+	font-family: Playfair Display;
+	font-size: 59px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_9 {
+	top: 735px;
+	left: 825px;
+	width: 271px;
+	height: 72px;
+}
+#group_8 {
+	top: 0px;
+	left: 0px;
+	width: 271px;
+	height: 72px;
+}
+#component_2___1 {
+	top: 0px;
+	left: 0px;
+	width: 271px;
+	height: 72px;
+}
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 271px;
+	height: 72px;
+	-ms-border-radius: 36px;
+	-o-border-radius: 36px;
+	-moz-border-radius: 36px;
+	-webkit-border-radius: 36px;
+	border-radius: 36px;
+	background:rgba(255,255,255,255);
+}
+
+
+#learn_more___ {
+	top: 23px;
+	left: 68px;
+	width: 140px;
+	height: 31px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_01_ {
+	top: 1180px;
+	left: 243px;
+	width: 35px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#_02_ {
+	top: 1938px;
+	left: 243px;
+	width: 37px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#_03_ {
+	top: 2697px;
+	left: 243px;
+	width: 37px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#_04_ {
+	top: 3455px;
+	left: 243px;
+	width: 37px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#line_1 {
+	top: 1201px !important;
+	position: absolute !important;
+	left: 281px;
+	width: 1396.1806640625px;
+	height: 1px;
+	background:url(skins/line_1.png);
+	background-size:cover;
+}
+
+
+#line_2 {
+	top: 1959px !important;
+	position: absolute !important;
+	left: 281px;
+	width: 1396.1806640625px;
+	height: 1px;
+	background:url(skins/line_2.png);
+	background-size:cover;
+}
+
+
+#line_3 {
+	top: 2717px !important;
+	position: absolute !important;
+	left: 281px;
+	width: 1396.1806640625px;
+	height: 1px;
+	background:url(skins/line_3.png);
+	background-size:cover;
+}
+
+
+#line_4 {
+	top: 3476px !important;
+	position: absolute !important;
+	left: 281px;
+	width: 1396.1806640625px;
+	height: 1px;
+	background:url(skins/line_4.png);
+	background-size:cover;
+}
+
+
+#line_5 {
+	top: 4234px !important;
+	position: absolute !important;
+	left: 281px;
+	width: 1396.1806640625px;
+	height: 1px;
+	background:url(skins/line_5.png);
+	background-size:cover;
+}
+
+
+#icon_awesome_behance {
+	top: 940px !important;
+	position: absolute !important;
+	left: 818px;
+	width: 54.84521484375px;
+	height: 34.382934570312px;
+	background:url(skins/icon_awesome_behance.png);
+	background-size:cover;
+}
+
+
+#icon_awesome_dribbble {
+	top: 933px !important;
+	position: absolute !important;
+	left: 938px;
+	width: 47.227783203125px;
+	height: 47.227722167969px;
+	background:url(skins/icon_awesome_dribbble.png);
+	background-size:cover;
+}
+
+
+#icon_awesome_linkedin_in {
+	top: 936px !important;
+	position: absolute !important;
+	left: 1058px;
+	width: 42.6572265625px;
+	height: 42.656311035156px;
+	background:url(skins/icon_awesome_linkedin_in.png);
+	background-size:cover;
+}
+
+
+#rectangle_8 {
+	top: 2815px;
+	left: 1155px;
+	width: 521px;
+	height: 562px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_9 {
+	top: 3573px;
+	left: 277px;
+	width: 521px;
+	height: 563px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#hearing_aid_academy {
+	top: 1429px;
+	left: 345px;
+	width: 413px;
+	height: 55px;
+	font-family: Raleway;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#website_redesign {
+	top: 1524px;
+	left: 345px;
+	width: 239px;
+	height: 36px;
+	font-family: Raleway;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#rectangle_3 {
+	top: 1595px;
+	left: 345px;
+	width: 142px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_4 {
+	top: 1595px;
+	left: 499px;
+	width: 151px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_5 {
+	top: 1595px;
+	left: 662px;
+	width: 114px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#visual_design {
+	top: 1608px;
+	left: 360px;
+	width: 113px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#landing_page {
+	top: 1608px;
+	left: 517px;
+	width: 116px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#redesign {
+	top: 1608px;
+	left: 680px;
+	width: 80px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__view_case_study___ {
+	top: 1700px;
+	left: 383px;
+	width: 146px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_6 {
+	top: 1684px;
+	left: 345px;
+	width: 214px;
+	height: 49px;
+	-ms-border-radius: 25.5px;
+	-o-border-radius: 25.5px;
+	-moz-border-radius: 25.5px;
+	-webkit-border-radius: 25.5px;
+	border-radius: 25.5px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+
+#neighbor_hub {
+	top: 2188px;
+	left: 1155px;
+	width: 270px;
+	height: 55px;
+	font-family: Raleway;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ui_ux_case_study {
+	top: 2278px;
+	left: 1155px;
+	width: 241px;
+	height: 36px;
+	font-family: Raleway;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#rectangle_3_ek1 {
+	top: 2353px;
+	left: 1155px;
+	width: 148px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_4_ek1 {
+	top: 2353px;
+	left: 1315px;
+	width: 100px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_30 {
+	top: 2353px;
+	left: 1427px;
+	width: 59px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_5_ek1 {
+	top: 2411px;
+	left: 1155px;
+	width: 153px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#user_research {
+	top: 2366px;
+	left: 1171px;
+	width: 121px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#android {
+	top: 2366px;
+	left: 1333px;
+	width: 69px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ios {
+	top: 2366px;
+	left: 1443px;
+	width: 32px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#concept_project {
+	top: 2424px;
+	left: 1167px;
+	width: 135px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#himalayan {
+	top: 2946px;
+	left: 345px;
+	width: 206px;
+	height: 55px;
+	font-family: Raleway;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#web_design {
+	top: 3037px;
+	left: 345px;
+	width: 160px;
+	height: 36px;
+	font-family: Raleway;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#rectangle_3_ek2 {
+	top: 3111px;
+	left: 345px;
+	width: 142px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_4_ek2 {
+	top: 3111px;
+	left: 499px;
+	width: 151px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_5_ek2 {
+	top: 3111px;
+	left: 662px;
+	width: 114px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#visual_design_ek1 {
+	top: 3125px;
+	left: 360px;
+	width: 113px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#landing_page_ek1 {
+	top: 3125px;
+	left: 517px;
+	width: 116px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#redesign_ek1 {
+	top: 3125px;
+	left: 680px;
+	width: 80px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#medsistant {
+	top: 3704px;
+	left: 1155px;
+	width: 254px;
+	height: 55px;
+	font-family: Raleway;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ui_ux_design {
+	top: 3795px;
+	left: 1155px;
+	width: 185px;
+	height: 36px;
+	font-family: Raleway;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#rectangle_3_ek3 {
+	top: 3870px;
+	left: 1155px;
+	width: 142px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_4_ek3 {
+	top: 3870px;
+	left: 1309px;
+	width: 151px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_5_ek3 {
+	top: 3870px;
+	left: 1472px;
+	width: 113px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#visual_design_ek2 {
+	top: 3883px;
+	left: 1170px;
+	width: 113px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#landing_page_ek2 {
+	top: 3883px;
+	left: 1327px;
+	width: 116px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#redesign_ek2 {
+	top: 3883px;
+	left: 1489px;
+	width: 80px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#designed_and_coded_with___and_a_lot_of_coffee_ {
+	top: 4256px;
+	left: 822px;
+	width: 274px;
+	height: 18px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#___manav_ladha_2020_ {
+	top: 4277px;
+	left: 900px;
+	width: 126px;
+	height: 16px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__view_case_study____ek1 {
+	top: 2497px;
+	left: 1193px;
+	width: 146px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_15 {
+	top: 2481px;
+	left: 1155px;
+	width: 214px;
+	height: 49px;
+	-ms-border-radius: 25.5px;
+	-o-border-radius: 25.5px;
+	-moz-border-radius: 25.5px;
+	-webkit-border-radius: 25.5px;
+	border-radius: 25.5px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+
+#__view_case_study____ek2 {
+	top: 3240px;
+	left: 383px;
+	width: 146px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_16 {
+	top: 3224px;
+	left: 345px;
+	width: 214px;
+	height: 49px;
+	-ms-border-radius: 25.5px;
+	-o-border-radius: 25.5px;
+	-moz-border-radius: 25.5px;
+	-webkit-border-radius: 25.5px;
+	border-radius: 25.5px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+
+#__view_case_study____ek3 {
+	top: 3986px;
+	left: 1193px;
+	width: 146px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_17 {
+	top: 3970px;
+	left: 1155px;
+	width: 214px;
+	height: 49px;
+	-ms-border-radius: 25.5px;
+	-o-border-radius: 25.5px;
+	-moz-border-radius: 25.5px;
+	-webkit-border-radius: 25.5px;
+	border-radius: 25.5px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+
+#haa2 {
+	top: 1320px !important;
+	position: absolute !important;
+	left: 979px;
+	width: 597px;
+	height: 353px;
+	background:url(skins/haa2.png);
+	background-size:cover;
+}
+
+
+#haa1 {
+	top: 1423px !important;
+	position: absolute !important;
+	left: 1097px;
+	width: 611px;
+	height: 409px;
+	background:url(skins/haa1.png);
+	background-size:cover;
+}
+
+
+#symbol_3___1 {
+	top: 2106px !important;
+	position: absolute !important;
+	left: 461px;
+	width: 320px;
+	height: 530px;
+	background:url(skins/symbol_3___1.png);
+	background-size:cover;
+}
+
+#page_about_me_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 2405px;
+	overflow:hidden;
+}
+
+#_bg__about_me_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 2405px;
+	background:rgba(26,29,32,255);
+}
+
+
+#icon_awesome_behance_ek1 {
+	top: 314px !important;
+	position: absolute !important;
+	left: 320px;
+	width: 47.4375px;
+	height: 29.739013671875px;
+	background:url(skins/icon_awesome_behance_ek1.png);
+	background-size:cover;
+}
+
+
+#icon_awesome_dribbble_ek1 {
+	top: 401px !important;
+	position: absolute !important;
+	left: 320px;
+	width: 40.848876953125px;
+	height: 40.848876953125px;
+	background:url(skins/icon_awesome_dribbble_ek1.png);
+	background-size:cover;
+}
+
+
+#icon_awesome_linkedin_in_ek1 {
+	top: 500px !important;
+	position: absolute !important;
+	left: 320px;
+	width: 36.895751953125px;
+	height: 36.89501953125px;
+	background:url(skins/icon_awesome_linkedin_in_ek1.png);
+	background-size:cover;
+}
+
+
+#dsc_0103 {
+	top: 314px !important;
+	position: absolute !important;
+	left: 454px;
+	width: 376px;
+	height: 538px;
+	background:url(skins/dsc_0103.png);
+	background-size:cover;
+}
+
+
+#i_m_a_digital_product_designer_passionate_about_solving_complex_problems___my_recent_work_stint_was_at_concevoir_web_services_where_i_redesigned_two_websites_for_our_clients___i_am_currently_in_the_lnm_institute_of_information__technology_perusing_b_tech_i {
+	top: 333px;
+	left: 1032px;
+	width: 574px;
+	height: 342px;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_4 {
+	top: 784px;
+	left: 1032px;
+	width: 212px;
+	height: 68px;
+}
+
+#rectangle_1_ek1 {
+	top: -0px;
+	left: -0px;
+	width: 212px;
+	height: 68px;
+	background:rgba(255,255,255,255);
+}
+
+
+#resume_ek1 {
+	top: 23px;
+	left: 69px;
+	width: 78px;
+	height: 26px;
+	font-family: Raleway;
+	font-size: 19px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#photography {
+	top: 1169px;
+	left: 243px;
+	width: 145px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#line_6 {
+	top: 1190px !important;
+	position: absolute !important;
+	left: 384px;
+	width: 1293.3720703125px;
+	height: 1px;
+	background:url(skins/line_6.png);
+	background-size:cover;
+}
+
+#group_5 {
+	top: 1316px;
+	left: 252px;
+	width: 1417px;
+	height: 399px;
+}
+
+#rectangle_11 {
+	top: 0px;
+	left: 0px;
+	width: 621px;
+	height: 397px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_12 {
+	top: 0px;
+	left: 759px;
+	width: 656px;
+	height: 397px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+#group_6 {
+	top: 1808px;
+	left: 252px;
+	width: 1417px;
+	height: 399px;
+}
+
+#rectangle_11_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 621px;
+	height: 397px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_12_ek1 {
+	top: 0px;
+	left: 759px;
+	width: 656px;
+	height: 397px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#line_5_ek1 {
+	top: 2332px !important;
+	position: absolute !important;
+	left: 263px;
+	width: 1396.1806640625px;
+	height: 1px;
+	background:url(skins/line_5_ek1.png);
+	background-size:cover;
+}
+
+
+#designed_and_coded_with___and_a_lot_of_coffee__ek1 {
+	top: 2354px;
+	left: 804px;
+	width: 274px;
+	height: 18px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#___manav_ladha_2020__ek1 {
+	top: 2375px;
+	left: 882px;
+	width: 126px;
+	height: 16px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#work_ek1 {
+	top: 110px;
+	left: 789px;
+	width: 55px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#about_ek1 {
+	top: 110px;
+	left: 919px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#resume_ek2 {
+	top: 110px;
+	left: 1055px;
+	width: 82px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+#page_haa_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 8665px;
+	overflow:hidden;
+}
+
+#_bg__haa_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 8665px;
+	background:rgba(26,29,32,255);
+}
+
+
+#overview {
+	top: 813px;
+	left: 243px;
+	width: 107px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#design_process {
+	top: 1243px;
+	left: 243px;
+	width: 171px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#line_6_ek1 {
+	top: 834px !important;
+	position: absolute !important;
+	left: 355px;
+	width: 1322.3720703125px;
+	height: 1px;
+	background:url(skins/line_6_ek1.png);
+	background-size:cover;
+}
+
+
+#line_7 {
+	top: 1264px !important;
+	position: absolute !important;
+	left: 418px;
+	width: 1259.3720703125px;
+	height: 1px;
+	background:url(skins/line_7.png);
+	background-size:cover;
+}
+
+
+#line_5_ek2 {
+	top: 8320px !important;
+	position: absolute !important;
+	left: 262px;
+	width: 1396.1806640625px;
+	height: 1px;
+	background:url(skins/line_5_ek2.png);
+	background-size:cover;
+}
+
+
+#line_9 {
+	top: 8602px !important;
+	position: absolute !important;
+	left: 262px;
+	width: 1396.1806640625px;
+	height: 1px;
+	background:url(skins/line_9.png);
+	background-size:cover;
+}
+
+
+#work_ek2 {
+	top: 110px;
+	left: 789px;
+	width: 55px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#about_ek2 {
+	top: 110px;
+	left: 919px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#resume_ek3 {
+	top: 110px;
+	left: 1055px;
+	width: 82px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#rectangle_13 {
+	top: 339px;
+	left: 1069px;
+	width: 379px;
+	height: 409px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#hearing_aid_academy_ek1 {
+	top: 408px;
+	left: 421px;
+	width: 372px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#hearing_aid_academy_is_an_institute_for_people_who_want_to_be_a_hearing_aid_specialist_ {
+	top: 532px;
+	left: 421px;
+	width: 401px;
+	height: 96px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#empathize {
+	top: 1409px;
+	left: 312px;
+	width: 185px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#identifying_users {
+	top: 2067px;
+	left: 312px;
+	width: 187px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#research {
+	top: 1732px;
+	left: 312px;
+	width: 164px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#research_ek1 {
+	top: 2267px;
+	left: 312px;
+	width: 164px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#solutions___things_to_have {
+	top: 2660px;
+	left: 312px;
+	width: 258px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#paper_wireframe {
+	top: 3056px;
+	left: 312px;
+	width: 294px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#mid___fidelity_wireframes {
+	top: 3722px;
+	left: 312px;
+	width: 227px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#high____fidelity_wireframes {
+	top: 4607px;
+	left: 312px;
+	width: 253px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_7 {
+	top: 979px;
+	left: 312px;
+	width: 1296px;
+	height: 141px;
+}
+
+#may_2020___june_2020 {
+	top: 99px;
+	left: 0px;
+	width: 241px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#about_hearing_aid_academy {
+	top: 0px;
+	left: 0px;
+	width: 372px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#the_hearing_aid_academy__haa__is_an_online_education_program_for_hearing_aid_specialists__it_arms_you_with_all_the_tools_you_need_to_successfully_pass_the_state_license_exam_and_start_your_new_career_in_the_fast_growing_hearing_instrument_services_industry {
+	top: 0px;
+	left: 526px;
+	width: 770px;
+	height: 155px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#after_a_careful_analysis_of_the_hearing_aid_academy_website__i_drew_the_following_conclusion_of_why_it_needed_a_redesign_____the_website_looks_outdated____there_was_no_trust_building_up_when_the_user_sees_it_for_the_first_time____the_brand_values_of_the_co {
+	top: 1400px;
+	left: 838px;
+	width: 770px;
+	height: 235px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#___people_looking_for_career_change____people_of_age_group_18_30____women_seeking_to_start_a_new_job_ {
+	top: 2068px;
+	left: 838px;
+	width: 770px;
+	height: 112px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#what_is_hearing_aid_academy_____an_educational_institution___for_people_who_are_willing_to_be_a_hearing_aid_specialist____hearing_aid_academy_aims_to_give_degree_to_those_who_want_to_pursue_hearing_____aid_specialist_as_their_career____completion_of_course {
+	top: 1722px;
+	left: 838px;
+	width: 770px;
+	height: 248px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#identifying_problems_with_current_website______the_website_looks_outdated_in_visual_design____not_able_to_figure_out_how_it_works__for_new_time_visitors____no_center_stage_for_cta___register_for_the_course__learn_more_about_it____reading_just_long_text_for {
+	top: 2258px;
+	left: 838px;
+	width: 770px;
+	height: 306px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#these_are_content_that_would_appear_on_the_home_screen_that_would_solve_all_the_problems_analyzed_from_the_current_website_____explaining_what_is_hearing_aid_academy___it_s_brand_values_and_vision____how_should_i_start___faqs____what_hearing_aid_academy_do {
+	top: 2650px;
+	left: 838px;
+	width: 770px;
+	height: 309px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#i_started_by_making_sketches_on_sheets_to_quickly_have_a_flow_of_ideas__i_made_the__final_paper_wireframe_as_ {
+	top: 3057px;
+	left: 838px;
+	width: 767px;
+	height: 62px;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_18 {
+	top: 3180px;
+	left: 838px;
+	width: 601px;
+	height: 381px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#web_1920___1 {
+	top: 3722px !important;
+	position: absolute !important;
+	left: 838px;
+	width: 603px;
+	height: 685px;
+	background:url(skins/web_1920___1.png);
+	background-size:cover;
+}
+
+
+#web_1920___1_ek1 {
+	top: 3722px !important;
+	position: absolute !important;
+	left: 1279px;
+	width: 603px;
+	height: 733px;
+	background:url(skins/web_1920___1_ek1.png);
+	background-size:cover;
+}
+
+
+#_21may___12 {
+	top: 4614px !important;
+	position: absolute !important;
+	left: 838px;
+	width: 800px;
+	height: 3141.5px;
+	background:url(skins/_21may___12.png);
+	background-size:cover;
+}
+
+
+#final_thoughts {
+	top: 7869px;
+	left: 244px;
+	width: 165px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#line_8 {
+	top: 7890px !important;
+	position: absolute !important;
+	left: 419px;
+	width: 1259.3720703125px;
+	height: 1px;
+	background:url(skins/line_8.png);
+	background-size:cover;
+}
+
+
+#closing_thoughts {
+	top: 8052px;
+	left: 312px;
+	width: 158px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#this_was_the_first_website_i_created_professionally_during_my_first_internship_as_ui_ux_designer__it_was_a_rollercoaster_for_me_since_it_was_the_first_time_i_faced_a_client_on_my_own_and_their_reviews_always_made_me_go_mad_at_first__eventually_i_got_okay_w {
+	top: 8053px;
+	left: 838px;
+	width: 770px;
+	height: 168px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#rectangle_19 {
+	top: 8433px;
+	left: 879px;
+	width: 160px;
+	height: 54px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	border: 1px solid #ffffff;
+	background:rgba(26,29,32,255);
+}
+
+
+#rectangle_20 {
+	top: 8433px;
+	left: 1111px;
+	width: 243px;
+	height: 56px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_21 {
+	top: 8433px;
+	left: 551px;
+	width: 243px;
+	height: 56px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(255,255,255,255);
+}
+
+
+#home {
+	top: 8449px;
+	left: 932px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#next_case_study__ {
+	top: 8446px;
+	left: 1144px;
+	width: 183px;
+	height: 31px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#1a1d20;
+}
+
+
+#_____prev_case_study_ {
+	top: 8446px;
+	left: 578px;
+	width: 195px;
+	height: 31px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#1a1d20;
+}
+
+
+#designed_and_coded_with___and_a_lot_of_coffee__ek2 {
+	top: 8614px;
+	left: 826px;
+	width: 274px;
+	height: 18px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#___manav_ladha_2020__ek2 {
+	top: 8635px;
+	left: 904px;
+	width: 126px;
+	height: 16px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__concevoir_web_services {
+	top: 484px;
+	left: 421px;
+	width: 252px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+#page_neighbor_hub_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 12369px;
+	overflow:hidden;
+}
+
+#_bg__neighbor_hub_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 12369px;
+	background:rgba(26,29,32,255);
+}
+
+
+#overview_ek1 {
+	top: 813px;
+	left: 243px;
+	width: 107px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#design_process_ek1 {
+	top: 1243px;
+	left: 243px;
+	width: 171px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#line_6_ek2 {
+	top: 834px !important;
+	position: absolute !important;
+	left: 355px;
+	width: 1322.3720703125px;
+	height: 1px;
+	background:url(skins/line_6_ek2.png);
+	background-size:cover;
+}
+
+
+#line_7_ek1 {
+	top: 1264px !important;
+	position: absolute !important;
+	left: 418px;
+	width: 1259.3720703125px;
+	height: 1px;
+	background:url(skins/line_7_ek1.png);
+	background-size:cover;
+}
+
+
+#line_5_ek3 {
+	top: 12031px !important;
+	position: absolute !important;
+	left: 262px;
+	width: 1396.1806640625px;
+	height: 1px;
+	background:url(skins/line_5_ek3.png);
+	background-size:cover;
+}
+
+
+#line_9_ek1 {
+	top: 12313px !important;
+	position: absolute !important;
+	left: 262px;
+	width: 1396.1806640625px;
+	height: 1px;
+	background:url(skins/line_9_ek1.png);
+	background-size:cover;
+}
+
+
+#work_ek3 {
+	top: 110px;
+	left: 789px;
+	width: 55px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#about_ek3 {
+	top: 110px;
+	left: 919px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#resume_ek4 {
+	top: 110px;
+	left: 1055px;
+	width: 82px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#neighbor_hub_ek4 {
+	top: 408px;
+	left: 421px;
+	width: 244px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#neighbor_hub_is_a_free_app_which_aims_in_increasing_the_interactions_within_a_society_by_sharing_food_around_ {
+	top: 532px;
+	left: 421px;
+	width: 427px;
+	height: 96px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#personal_project {
+	top: 480px;
+	left: 421px;
+	width: 161px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#the_problem_statement {
+	top: 1409px;
+	left: 312px;
+	width: 224px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#inspiration {
+	top: 2067px;
+	left: 312px;
+	width: 184px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#research_ek2 {
+	top: 1732px;
+	left: 312px;
+	width: 164px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#goal {
+	top: 2683px;
+	left: 312px;
+	width: 84px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#user_journey_map {
+	top: 3002px;
+	left: 312px;
+	width: 228px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#paper_wireframe_ek1 {
+	top: 4175px;
+	left: 312px;
+	width: 294px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#high____fidelity_wireframes_ek1 {
+	top: 5041px;
+	left: 312px;
+	width: 253px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#february_2020___april_2020 {
+	top: 1078px;
+	left: 312px;
+	width: 291px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#about_neighbor_hub {
+	top: 979px;
+	left: 312px;
+	width: 244px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#neighbor_hub_is_an_app_which_aims_at_reuniting_people_living_in_a_society_in_this_era_where_one_hardly_interacts_with_their_neighbour__the_main_motto_of_the_app_is_to_increase_the_interactions_and_support_small_businesses_running_from_home_ {
+	top: 1006px;
+	left: 838px;
+	width: 770px;
+	height: 113px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#we_grew_up_playing_with_kids_in_our_neighborhood__but_as_we_grew_up__our_priorities_changes__meeting_people_around_our_neighbourhood_wasn_t_even_a_routine_anymore__we_got_busy_in_our_lives_and_even_on_weekends__we_always_think_of_resting_at_home_alone_or_w {
+	top: 1400px;
+	left: 838px;
+	width: 770px;
+	height: 235px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#while_i_was_cooking_pasta__i_made_just_double_the_amount_than_i_intended_to__i_quickly_messaged_in_the_whatsapp_group_of_our_society_asking_for_anyone_who_was_interested_in_sharing_the_food__many_people_replied_with_a__yes___that_rang_a_bell_inside_my_mind {
+	top: 2057px;
+	left: 838px;
+	width: 770px;
+	height: 529px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#according_to_a_survey_conducted_nrdc__56__of_people_living_in_a_neighborhood_don_t_meet_with_their_neighbors_even_once_a_week___even_with_living_in_the_same_society__having_houses_at_a_distance_of_10m__people_don_t_talk_to_each_other_much___most_people_who {
+	top: 1722px;
+	left: 838px;
+	width: 770px;
+	height: 248px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#___increase_the_interactions_within_a_society_____support_small_businesses_____reduce_consumer_food_waste_by_empowering_people_to_share_before_they_____spare_ {
+	top: 2673px;
+	left: 838px;
+	width: 748px;
+	height: 231px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#i_started_by_making_sketches_on_sheets_to_quickly_have_a_flow_of_ideas__i_made_the__final_paper_wireframe_as__ek1 {
+	top: 4176px;
+	left: 838px;
+	width: 767px;
+	height: 62px;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#startup_screens__ {
+	top: 5703px;
+	left: 838px;
+	width: 203px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#fonts__ {
+	top: 5026px;
+	left: 838px;
+	width: 81px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#playfair_display_font {
+	top: 5101px;
+	left: 838px;
+	width: 283px;
+	height: 46px;
+	font-family: Playfair Display;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#aa_bb_cc_dd_ee_ff_gg_hh_ii_jj_kk_ll_mm_nn_oo_pp_qq_rr_ss_tt_uu_vv_ww_xx_yy_zz {
+	top: 5170px;
+	left: 838px;
+	width: 319px;
+	height: 102px;
+	font-family: Playfair Display;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_0_1_2_3_4_5_6_7_8_9____________________ {
+	top: 5279px;
+	left: 838px;
+	width: 204px;
+	height: 70px;
+	font-family: Playfair Display;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_0_1_2_3_4_5_6_7_8_9_____________________ek1 {
+	top: 5282px;
+	left: 1271px;
+	width: 217px;
+	height: 67px;
+	font-family: Apercu;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#apercu_font {
+	top: 5105px;
+	left: 1271px;
+	width: 172px;
+	height: 41px;
+	font-family: Apercu;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#aa_bb_cc_dd_ee_ff_gg_hh_ii_jj_kk_ll_mm_nn_oo_pp_qq_rr_ss_tt_uu_vv_ww_xx_yy_zz_ek1 {
+	top: 5170px;
+	left: 1271px;
+	width: 321px;
+	height: 99px;
+	font-family: Apercu;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#login_screen__ {
+	top: 7261px;
+	left: 838px;
+	width: 170px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#item_selection_screen__ {
+	top: 8087px;
+	left: 844px;
+	width: 268px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#item_description_screen__ {
+	top: 8911px;
+	left: 844px;
+	width: 297px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#details_confirmation_screen {
+	top: 9785px;
+	left: 844px;
+	width: 330px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#checkout_screens__ {
+	top: 10670px;
+	left: 844px;
+	width: 229px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#final_thoughts_ek1 {
+	top: 11580px;
+	left: 244px;
+	width: 165px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#line_8_ek1 {
+	top: 11601px !important;
+	position: absolute !important;
+	left: 419px;
+	width: 1259.3720703125px;
+	height: 1px;
+	background:url(skins/line_8_ek1.png);
+	background-size:cover;
+}
+
+
+#closing_thoughts_ek1 {
+	top: 11763px;
+	left: 312px;
+	width: 158px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#i_loved_working_on_this_app_design_since_it_was_the_first_design_of_my_own_on_which_i_worked_from_scratch_and_researched_for_hours__this_taught_me_many_things_like__a_simple_design_can_also_work_perfectly_when_chosen_with_the_best_pair_of_fonts_and_colours {
+	top: 11764px;
+	left: 838px;
+	width: 770px;
+	height: 138px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#rectangle_19_ek1 {
+	top: 12144px;
+	left: 879px;
+	width: 160px;
+	height: 54px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	border: 1px solid #ffffff;
+	background:rgba(26,29,32,255);
+}
+
+
+#rectangle_20_ek1 {
+	top: 12144px;
+	left: 1111px;
+	width: 243px;
+	height: 56px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_21_ek1 {
+	top: 12144px;
+	left: 551px;
+	width: 243px;
+	height: 56px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(255,255,255,255);
+}
+
+
+#home_ek1 {
+	top: 12160px;
+	left: 932px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#next_case_study___ek1 {
+	top: 12157px;
+	left: 1144px;
+	width: 183px;
+	height: 31px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#1a1d20;
+}
+
+
+#_____prev_case_study__ek1 {
+	top: 12157px;
+	left: 578px;
+	width: 195px;
+	height: 31px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#1a1d20;
+}
+
+
+#designed_and_coded_with___and_a_lot_of_coffee__ek3 {
+	top: 12325px;
+	left: 826px;
+	width: 274px;
+	height: 18px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#___manav_ladha_2020__ek3 {
+	top: 12346px;
+	left: 904px;
+	width: 126px;
+	height: 16px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#group_8_ek1 {
+	top: 3002px !important;
+	position: absolute !important;
+	left: 713px;
+	width: 873px;
+	height: 1071px;
+	background:url(skins/group_8_ek1.png);
+	background-size:cover;
+}
+
+
+#rectangle_22 {
+	top: 4337px;
+	left: 838px;
+	width: 760px;
+	height: 497px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#os3 {
+	top: 5786px !important;
+	position: absolute !important;
+	left: 835px;
+	width: 314px;
+	height: 644px;
+	background:url(skins/os3.png);
+	background-size:cover;
+}
+
+
+#os4 {
+	top: 5786px !important;
+	position: absolute !important;
+	left: 1221px;
+	width: 313px;
+	height: 644px;
+	background:url(skins/os4.png);
+	background-size:cover;
+}
+
+
+#os1 {
+	top: 6517px !important;
+	position: absolute !important;
+	left: 835px;
+	width: 314px;
+	height: 645px;
+	background:url(skins/os1.png);
+	background-size:cover;
+}
+
+
+#os2 {
+	top: 6517px !important;
+	position: absolute !important;
+	left: 1221px;
+	width: 313px;
+	height: 645px;
+	background:url(skins/os2.png);
+	background-size:cover;
+}
+
+
+#sign_in {
+	top: 7344px !important;
+	position: absolute !important;
+	left: 835px;
+	width: 314px;
+	height: 644px;
+	background:url(skins/sign_in.png);
+	background-size:cover;
+}
+
+
+#location {
+	top: 7344px !important;
+	position: absolute !important;
+	left: 1222px;
+	width: 312px;
+	height: 643px;
+	background:url(skins/location.png);
+	background-size:cover;
+}
+
+
+#preferences {
+	top: 8169px !important;
+	position: absolute !important;
+	left: 836px;
+	width: 313px;
+	height: 643px;
+	background:url(skins/preferences.png);
+	background-size:cover;
+}
+
+
+#group_8_ek2 {
+	top: 8169px !important;
+	position: absolute !important;
+	left: 1221px;
+	width: 313px;
+	height: 645px;
+	background:url(skins/group_8_ek2.png);
+	background-size:cover;
+}
+
+
+#_2 {
+	top: 9043px !important;
+	position: absolute !important;
+	left: 835px;
+	width: 314px;
+	height: 645px;
+	background:url(skins/_2.png);
+	background-size:cover;
+}
+
+
+#_3 {
+	top: 9923px !important;
+	position: absolute !important;
+	left: 836px;
+	width: 313px;
+	height: 643px;
+	background:url(skins/_3.png);
+	background-size:cover;
+}
+
+
+#_4 {
+	top: 9923px !important;
+	position: absolute !important;
+	left: 1221px;
+	width: 313px;
+	height: 645px;
+	background:url(skins/_4.png);
+	background-size:cover;
+}
+
+
+#chckout {
+	top: 10808px !important;
+	position: absolute !important;
+	left: 835px;
+	width: 314px;
+	height: 645px;
+	background:url(skins/chckout.png);
+	background-size:cover;
+}
+
+
+#final {
+	top: 10808px !important;
+	position: absolute !important;
+	left: 1222px;
+	width: 312px;
+	height: 643px;
+	background:url(skins/final.png);
+	background-size:cover;
+}
+
+
+#__0b2e44 {
+	top: 5577px;
+	left: 838px;
+	width: 90px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__e8505b {
+	top: 5577px;
+	left: 964px;
+	width: 91px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__a2f8d4 {
+	top: 5577px;
+	left: 1090px;
+	width: 92px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__60aa4d {
+	top: 5577px;
+	left: 1216px;
+	width: 95px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__a1c4d4 {
+	top: 5577px;
+	left: 1342px;
+	width: 92px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#colours___ {
+	top: 5449px;
+	left: 838px;
+	width: 113px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ellipse_1 {
+	top: 5514px;
+	left: 857px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(11,46,68,255);
+}
+
+
+#ellipse_2 {
+	top: 5514px;
+	left: 983px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(232,80,91,255);
+}
+
+
+#ellipse_3 {
+	top: 5514px;
+	left: 1109px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(162,248,212,255);
+}
+
+
+#ellipse_4 {
+	top: 5514px;
+	left: 1235px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(96,170,77,255);
+}
+
+
+#ellipse_5 {
+	top: 5514px;
+	left: 1361px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(161,196,212,255);
+}
+
+
+#group_1 {
+	top: 327px !important;
+	position: absolute !important;
+	left: 421px;
+	width: 53px;
+	height: 53px;
+	background:url(skins/group_1.png);
+	background-size:cover;
+}
+
+
+#gravity_devices_ui_mockup_set_vol7 {
+	top: 134px !important;
+	position: absolute !important;
+	left: 860px;
+	width: 855px;
+	height: 809px;
+	background:url(skins/gravity_devices_ui_mockup_set_vol7.png);
+	background-size:cover;
+}
+
+
+
+/* Add your custom CSS here */
