@@ -1,0 +1,3909 @@
+/*
+	@name index
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_index_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 4313px;
+	overflow:hidden;
+}
+
+#_bg__index_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 4313px;
+	background:rgba(26,29,32,255);
+}
+
+
+#work {
+	top: 110px;
+	left: 789px;
+	width: 55px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#about {
+	top: 110px;
+	left: 919px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#resume {
+	top: 110px;
+	left: 1055px;
+	width: 82px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#hello__my_name_is_manav_ladha_and_i_m_a_product_designer_ {
+	top: 349px;
+	left: 606px;
+	width: 751px;
+	height: 249px;
+	font-family: Playfair Display;
+	font-size: 59px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_9 {
+	top: 735px;
+	left: 825px;
+	width: 271px;
+	height: 72px;
+}
+#group_8 {
+	top: 0px;
+	left: 0px;
+	width: 271px;
+	height: 72px;
+}
+#component_2___1 {
+	top: 0px;
+	left: 0px;
+	width: 271px;
+	height: 72px;
+}
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 271px;
+	height: 72px;
+	-ms-border-radius: 36px;
+	-o-border-radius: 36px;
+	-moz-border-radius: 36px;
+	-webkit-border-radius: 36px;
+	border-radius: 36px;
+	background:rgba(255,255,255,255);
+}
+
+
+#learn_more___ {
+	top: 23px;
+	left: 68px;
+	width: 140px;
+	height: 31px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_01_ {
+	top: 1180px;
+	left: 243px;
+	width: 35px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#_02_ {
+	top: 1938px;
+	left: 243px;
+	width: 37px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#_03_ {
+	top: 2697px;
+	left: 243px;
+	width: 37px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#_04_ {
+	top: 3455px;
+	left: 243px;
+	width: 37px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#line_1 {
+	top: 1201px;
+	left: 281px;
+	width: 1396.1806640625px;
+	height: 1px;
+}
+
+
+#line_2 {
+	top: 1959px;
+	left: 281px;
+	width: 1396.1806640625px;
+	height: 1px;
+}
+
+
+#line_3 {
+	top: 2717px;
+	left: 281px;
+	width: 1396.1806640625px;
+	height: 1px;
+}
+
+
+#line_4 {
+	top: 3476px;
+	left: 281px;
+	width: 1396.1806640625px;
+	height: 1px;
+}
+
+
+#line_5 {
+	top: 4234px;
+	left: 281px;
+	width: 1396.1806640625px;
+	height: 1px;
+}
+
+
+#icon_awesome_behance {
+	top: 940px;
+	left: 818px;
+	width: 54.8447265625px;
+	height: 34.383056640625px;
+}
+
+
+#icon_awesome_dribbble {
+	top: 933px;
+	left: 938px;
+	width: 47.2275390625px;
+	height: 47.227783203125px;
+}
+
+
+#icon_awesome_linkedin_in {
+	top: 936px;
+	left: 1058px;
+	width: 42.6572265625px;
+	height: 42.65625px;
+}
+
+
+#group_4 {
+	top: 3602px;
+	left: 304px;
+	width: 469px;
+	height: 507px;
+}
+
+
+#hearing_aid_academy {
+	top: 1429px;
+	left: 345px;
+	width: 413px;
+	height: 55px;
+	font-family: Raleway;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#website_redesign {
+	top: 1524px;
+	left: 345px;
+	width: 239px;
+	height: 36px;
+	font-family: Raleway;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#rectangle_3 {
+	top: 1595px;
+	left: 345px;
+	width: 142px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_4 {
+	top: 1595px;
+	left: 499px;
+	width: 151px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_5 {
+	top: 1595px;
+	left: 662px;
+	width: 114px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#visual_design {
+	top: 1608px;
+	left: 360px;
+	width: 113px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#landing_page {
+	top: 1608px;
+	left: 517px;
+	width: 116px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#redesign {
+	top: 1608px;
+	left: 680px;
+	width: 80px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__view_case_study___ {
+	top: 1700px;
+	left: 383px;
+	width: 146px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_6 {
+	top: 1684px;
+	left: 345px;
+	width: 214px;
+	height: 49px;
+	-ms-border-radius: 25.5px;
+	-o-border-radius: 25.5px;
+	-moz-border-radius: 25.5px;
+	-webkit-border-radius: 25.5px;
+	border-radius: 25.5px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+
+#neighbor_hub {
+	top: 2188px;
+	left: 1155px;
+	width: 270px;
+	height: 55px;
+	font-family: Raleway;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ui_ux_case_study {
+	top: 2278px;
+	left: 1155px;
+	width: 241px;
+	height: 36px;
+	font-family: Raleway;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#rectangle_3_ek1 {
+	top: 2353px;
+	left: 1155px;
+	width: 148px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_4_ek1 {
+	top: 2353px;
+	left: 1315px;
+	width: 100px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_30 {
+	top: 2353px;
+	left: 1427px;
+	width: 59px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_5_ek1 {
+	top: 2411px;
+	left: 1155px;
+	width: 153px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#user_research {
+	top: 2366px;
+	left: 1171px;
+	width: 121px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#android {
+	top: 2366px;
+	left: 1333px;
+	width: 69px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ios {
+	top: 2366px;
+	left: 1443px;
+	width: 32px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#concept_project {
+	top: 2424px;
+	left: 1167px;
+	width: 135px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#himalayan {
+	top: 2946px;
+	left: 345px;
+	width: 206px;
+	height: 55px;
+	font-family: Raleway;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#web_design {
+	top: 3037px;
+	left: 345px;
+	width: 160px;
+	height: 36px;
+	font-family: Raleway;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#rectangle_3_ek2 {
+	top: 3111px;
+	left: 345px;
+	width: 142px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_4_ek2 {
+	top: 3111px;
+	left: 499px;
+	width: 157px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_5_ek2 {
+	top: 3111px;
+	left: 682px;
+	width: 114px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#visual_design_ek1 {
+	top: 3125px;
+	left: 360px;
+	width: 113px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ui___ux_design {
+	top: 3124px;
+	left: 517px;
+	width: 126px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#concept {
+	top: 3124px;
+	left: 705px;
+	width: 73px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#medsistant {
+	top: 3704px;
+	left: 1155px;
+	width: 254px;
+	height: 55px;
+	font-family: Raleway;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ui_ux_design {
+	top: 3795px;
+	left: 1155px;
+	width: 185px;
+	height: 36px;
+	font-family: Raleway;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#rectangle_3_ek3 {
+	top: 3870px;
+	left: 1155px;
+	width: 142px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_4_ek3 {
+	top: 3870px;
+	left: 1309px;
+	width: 98px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#rectangle_5_ek3 {
+	top: 3870px;
+	left: 1419px;
+	width: 137px;
+	height: 46px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(45,46,48,255);
+}
+
+
+#medical_app {
+	top: 3883px;
+	left: 1176px;
+	width: 105px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#android_ek1 {
+	top: 3883px;
+	left: 1326px;
+	width: 69px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#user_research_ek1 {
+	top: 3883px;
+	left: 1430px;
+	width: 121px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#designed_and_coded_with___and_a_lot_of_coffee_ {
+	top: 4256px;
+	left: 822px;
+	width: 274px;
+	height: 18px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#___manav_ladha_2020_ {
+	top: 4277px;
+	left: 900px;
+	width: 126px;
+	height: 16px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__view_case_study____ek1 {
+	top: 2497px;
+	left: 1193px;
+	width: 146px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_15 {
+	top: 2481px;
+	left: 1155px;
+	width: 214px;
+	height: 49px;
+	-ms-border-radius: 25.5px;
+	-o-border-radius: 25.5px;
+	-moz-border-radius: 25.5px;
+	-webkit-border-radius: 25.5px;
+	border-radius: 25.5px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+
+#__view_case_study____ek2 {
+	top: 3216px;
+	left: 383px;
+	width: 146px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_16 {
+	top: 3200px;
+	left: 345px;
+	width: 214px;
+	height: 49px;
+	-ms-border-radius: 25.5px;
+	-o-border-radius: 25.5px;
+	-moz-border-radius: 25.5px;
+	-webkit-border-radius: 25.5px;
+	border-radius: 25.5px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+
+#__view_case_study____ek3 {
+	top: 3986px;
+	left: 1193px;
+	width: 146px;
+	height: 23px;
+	font-family: Raleway;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_17 {
+	top: 3970px;
+	left: 1155px;
+	width: 214px;
+	height: 49px;
+	-ms-border-radius: 25.5px;
+	-o-border-radius: 25.5px;
+	-moz-border-radius: 25.5px;
+	-webkit-border-radius: 25.5px;
+	border-radius: 25.5px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+
+#haa {
+	top: 1339px;
+	left: 999px;
+	width: 678px;
+	height: 476px;
+}
+
+
+#himalayan_ek1 {
+	top: 2865px;
+	left: 992px;
+	width: 685px;
+	height: 440px;
+}
+
+
+#neighbor_hub_ek1 {
+	top: 2045px;
+	left: 360px;
+	width: 535px;
+	height: 601px;
+}
+
+#page_about_me_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 2405px;
+	overflow:hidden;
+}
+
+#_bg__about_me_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 2405px;
+	background:rgba(26,29,32,255);
+}
+
+
+#icon_awesome_behance_ek1 {
+	top: 314px;
+	left: 320px;
+	width: 47.4375px;
+	height: 29.73876953125px;
+}
+
+
+#icon_awesome_dribbble_ek1 {
+	top: 401px;
+	left: 320px;
+	width: 40.849609375px;
+	height: 40.84912109375px;
+}
+
+
+#icon_awesome_linkedin_in_ek1 {
+	top: 500px;
+	left: 320px;
+	width: 36.896484375px;
+	height: 36.89501953125px;
+}
+
+
+#dsc_0103 {
+	top: 314px;
+	left: 454px;
+	width: 465px;
+	height: 538px;
+}
+
+
+#i_m_a_digital_product_designer_passionate_about_solving_complex_problems___my_recent_work_stint_was_at_concevoir_web_services_where_i_redesigned_two_websites_for_our_clients___i_am_currently_in_the_lnm_institute_of_information__technology_perusing_b_tech_i {
+	top: 333px;
+	left: 1032px;
+	width: 574px;
+	height: 342px;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_4_ek1 {
+	top: 784px;
+	left: 1032px;
+	width: 212px;
+	height: 68px;
+}
+
+#rectangle_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 212px;
+	height: 68px;
+	-ms-border-radius: 34px;
+	-o-border-radius: 34px;
+	-moz-border-radius: 34px;
+	-webkit-border-radius: 34px;
+	border-radius: 34px;
+	background:rgba(255,255,255,255);
+}
+
+
+#resume_ek1 {
+	top: 23px;
+	left: 69px;
+	width: 78px;
+	height: 26px;
+	font-family: Raleway;
+	font-size: 19px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#photography {
+	top: 1169px;
+	left: 243px;
+	width: 145px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#line_6 {
+	top: 1190px;
+	left: 384px;
+	width: 1293.3720703125px;
+	height: 1px;
+}
+
+#group_5 {
+	top: 1316px;
+	left: 252px;
+	width: 1417px;
+	height: 399px;
+}
+
+#rectangle_11 {
+	top: 0px;
+	left: 0px;
+	width: 621px;
+	height: 397px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_12 {
+	top: 0px;
+	left: 759px;
+	width: 656px;
+	height: 397px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+#group_6 {
+	top: 1808px;
+	left: 252px;
+	width: 1417px;
+	height: 399px;
+}
+
+#rectangle_11_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 621px;
+	height: 397px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_12_ek1 {
+	top: 0px;
+	left: 759px;
+	width: 656px;
+	height: 397px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#line_5_ek1 {
+	top: 2332px;
+	left: 263px;
+	width: 1396.1806640625px;
+	height: 1px;
+}
+
+
+#designed_and_coded_with___and_a_lot_of_coffee__ek1 {
+	top: 2354px;
+	left: 804px;
+	width: 274px;
+	height: 18px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#___manav_ladha_2020__ek1 {
+	top: 2375px;
+	left: 882px;
+	width: 126px;
+	height: 16px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#work_ek1 {
+	top: 110px;
+	left: 789px;
+	width: 55px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#about_ek1 {
+	top: 110px;
+	left: 919px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#resume_ek2 {
+	top: 110px;
+	left: 1055px;
+	width: 82px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+#page_haa_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 7997px;
+	overflow:hidden;
+}
+
+#_bg__haa_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 7997px;
+	background:rgba(26,29,32,255);
+}
+
+
+#overview {
+	top: 813px;
+	left: 243px;
+	width: 107px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#design_process {
+	top: 1243px;
+	left: 243px;
+	width: 171px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#line_6_ek1 {
+	top: 834px;
+	left: 355px;
+	width: 1322.3720703125px;
+	height: 1px;
+}
+
+
+#line_7 {
+	top: 1264px;
+	left: 418px;
+	width: 1259.3720703125px;
+	height: 1px;
+}
+
+
+#line_5_ek2 {
+	top: 7654px;
+	left: 262px;
+	width: 1396.1806640625px;
+	height: 1px;
+}
+
+
+#line_9 {
+	top: 7936px;
+	left: 262px;
+	width: 1396.1806640625px;
+	height: 1px;
+}
+
+
+#work_ek2 {
+	top: 110px;
+	left: 789px;
+	width: 55px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#about_ek2 {
+	top: 110px;
+	left: 919px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#resume_ek3 {
+	top: 110px;
+	left: 1055px;
+	width: 82px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#hearing_aid_academy_ek1 {
+	top: 408px;
+	left: 421px;
+	width: 372px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#hearing_aid_academy_is_an_institute_for_people_who_want_to_be_a_hearing_aid_specialist_ {
+	top: 532px;
+	left: 421px;
+	width: 401px;
+	height: 96px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#empathize {
+	top: 1409px;
+	left: 312px;
+	width: 185px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#identifying_users {
+	top: 2067px;
+	left: 312px;
+	width: 187px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#research {
+	top: 1732px;
+	left: 312px;
+	width: 164px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#research_ek1 {
+	top: 2267px;
+	left: 312px;
+	width: 164px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#solutions___things_to_have {
+	top: 2660px;
+	left: 312px;
+	width: 258px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#mid___fidelity_wireframes {
+	top: 3056px;
+	left: 312px;
+	width: 227px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#high____fidelity_wireframes {
+	top: 3941px;
+	left: 312px;
+	width: 253px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_7 {
+	top: 979px;
+	left: 312px;
+	width: 1296px;
+	height: 141px;
+}
+
+#may_2020___june_2020 {
+	top: 99px;
+	left: 0px;
+	width: 241px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#about_hearing_aid_academy {
+	top: 0px;
+	left: 0px;
+	width: 372px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#the_hearing_aid_academy__haa__is_an_online_education_program_for_hearing_aid_specialists__it_arms_you_with_all_the_tools_you_need_to_successfully_pass_the_state_license_exam_and_start_your_new_career_in_the_fast_growing_hearing_instrument_services_industry {
+	top: 0px;
+	left: 526px;
+	width: 770px;
+	height: 155px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#after_a_careful_analysis_of_the_hearing_aid_academy_website__i_drew_the_following_conclusion_of_why_it_needed_a_redesign_____the_website_looks_outdated____there_was_no_trust_building_up_when_the_user_sees_it_for_the_first_time____the_brand_values_of_the_co {
+	top: 1400px;
+	left: 838px;
+	width: 770px;
+	height: 235px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#___people_looking_for_career_change____people_of_age_group_18_30____women_seeking_to_start_a_new_job_ {
+	top: 2068px;
+	left: 838px;
+	width: 770px;
+	height: 112px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#what_is_hearing_aid_academy_____an_educational_institution___for_people_who_are_willing_to_be_a_hearing_aid_specialist____hearing_aid_academy_aims_to_give_degree_to_those_who_want_to_pursue_hearing_____aid_specialist_as_their_career____completion_of_course {
+	top: 1722px;
+	left: 838px;
+	width: 770px;
+	height: 248px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#identifying_problems_with_current_website______the_website_looks_outdated_in_visual_design____not_able_to_figure_out_how_it_works__for_new_time_visitors____no_center_stage_for_cta___register_for_the_course__learn_more_about_it____reading_just_long_text_for {
+	top: 2258px;
+	left: 838px;
+	width: 770px;
+	height: 306px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#these_are_content_that_would_appear_on_the_home_screen_that_would_solve_all_the_problems_analyzed_from_the_current_website_____explaining_what_is_hearing_aid_academy___it_s_brand_values_and_vision____how_should_i_start___faqs____what_hearing_aid_academy_do {
+	top: 2650px;
+	left: 838px;
+	width: 770px;
+	height: 309px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#web_1920___1 {
+	top: 3056px;
+	left: 838px;
+	width: 603px;
+	height: 685px;
+}
+
+
+#web_1920___1_ek1 {
+	top: 3056px;
+	left: 1279px;
+	width: 603px;
+	height: 733px;
+}
+
+
+#_21may___12 {
+	top: 3948px;
+	left: 838px;
+	width: 800px;
+	height: 3141.5px;
+}
+
+
+#final_thoughts {
+	top: 7203px;
+	left: 244px;
+	width: 165px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#line_8 {
+	top: 7224px;
+	left: 419px;
+	width: 1259.3720703125px;
+	height: 1px;
+}
+
+
+#closing_thoughts {
+	top: 7386px;
+	left: 312px;
+	width: 158px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#this_was_the_first_website_i_created_professionally_during_my_first_internship_as_ui_ux_designer__it_was_a_rollercoaster_for_me_since_it_was_the_first_time_i_faced_a_client_on_my_own_and_their_reviews_always_made_me_go_mad_at_first__eventually_i_got_okay_w {
+	top: 7387px;
+	left: 838px;
+	width: 770px;
+	height: 168px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#rectangle_19 {
+	top: 7767px;
+	left: 879px;
+	width: 160px;
+	height: 54px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	border: 1px solid #ffffff;
+	background:rgba(26,29,32,255);
+}
+
+
+#rectangle_20 {
+	top: 7767px;
+	left: 1111px;
+	width: 243px;
+	height: 56px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_21 {
+	top: 7767px;
+	left: 551px;
+	width: 243px;
+	height: 56px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(255,255,255,255);
+}
+
+
+#home {
+	top: 7783px;
+	left: 932px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#next_case_study__ {
+	top: 7780px;
+	left: 1144px;
+	width: 183px;
+	height: 31px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#1a1d20;
+}
+
+
+#_____prev_case_study_ {
+	top: 7780px;
+	left: 578px;
+	width: 195px;
+	height: 31px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#1a1d20;
+}
+
+
+#designed_and_coded_with___and_a_lot_of_coffee__ek2 {
+	top: 7948px;
+	left: 826px;
+	width: 274px;
+	height: 18px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#___manav_ladha_2020__ek2 {
+	top: 7969px;
+	left: 904px;
+	width: 126px;
+	height: 16px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__concevoir_web_services {
+	top: 484px;
+	left: 421px;
+	width: 252px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#browser {
+	top: 325px;
+	left: 1047px;
+	width: 618px;
+	height: 366px;
+}
+
+#page_haa___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 6315px;
+	overflow:hidden;
+}
+
+#_bg__haa___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 6315px;
+	background:rgba(26,29,32,255);
+}
+
+
+#overview_ek1 {
+	top: 813px;
+	left: 243px;
+	width: 107px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#design {
+	top: 1243px;
+	left: 243px;
+	width: 80px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#line_6_ek2 {
+	top: 834px;
+	left: 355px;
+	width: 1322.3720703125px;
+	height: 1px;
+}
+
+
+#line_7_ek1 {
+	top: 1264px;
+	left: 327px;
+	width: 1350.3720703125px;
+	height: 1px;
+}
+
+
+#line_5_ek3 {
+	top: 5977px;
+	left: 262px;
+	width: 1396.1806640625px;
+	height: 1px;
+}
+
+
+#line_9_ek1 {
+	top: 6259px;
+	left: 262px;
+	width: 1396.1806640625px;
+	height: 1px;
+}
+
+
+#work_ek3 {
+	top: 110px;
+	left: 789px;
+	width: 55px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#about_ek3 {
+	top: 110px;
+	left: 919px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#resume_ek4 {
+	top: 110px;
+	left: 1055px;
+	width: 82px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#himalayan_ek2 {
+	top: 408px;
+	left: 421px;
+	width: 186px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#it_s_a_company_which_started_it_s_business_as_exporter_of_various_textile_products_from_india_ {
+	top: 532px;
+	left: 421px;
+	width: 457px;
+	height: 96px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#landing_page_ek1 {
+	top: 2110px;
+	left: 312px;
+	width: 239px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#about_us_page {
+	top: 2778px;
+	left: 312px;
+	width: 157px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#contact_us_page {
+	top: 3480px;
+	left: 312px;
+	width: 188px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#individual_service_page {
+	top: 5276px;
+	left: 312px;
+	width: 227px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#services_page {
+	top: 4182px;
+	left: 312px;
+	width: 149px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_7_ek1 {
+	top: 960px;
+	left: 312px;
+	width: 1296px;
+	height: 194px;
+}
+#group_10 {
+	top: 34px;
+	left: 0px;
+	width: 336px;
+	height: 126px;
+}
+
+#december_2019___january_2020 {
+	top: 99px;
+	left: 0px;
+	width: 341px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#about_himalayan {
+	top: 0px;
+	left: 0px;
+	width: 186px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#the_company_started_it_s_business_as_exporter_of_various_textile_products_from_india_and_later_on__expanded_it_s_export_base_to_some_non_textile_items_like_cashew__surgical_instruments__home_fashions__handicrafts__etc___the_company_further_diversified_it_s {
+	top: -10px;
+	left: 526px;
+	width: 770px;
+	height: 208px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#rectangle_19_ek1 {
+	top: 6090px;
+	left: 879px;
+	width: 160px;
+	height: 54px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	border: 1px solid #ffffff;
+	background:rgba(26,29,32,255);
+}
+
+
+#rectangle_20_ek1 {
+	top: 6090px;
+	left: 1111px;
+	width: 243px;
+	height: 56px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_21_ek1 {
+	top: 6090px;
+	left: 551px;
+	width: 243px;
+	height: 56px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(255,255,255,255);
+}
+
+
+#home_ek1 {
+	top: 6106px;
+	left: 932px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#next_case_study___ek1 {
+	top: 6103px;
+	left: 1144px;
+	width: 183px;
+	height: 31px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#1a1d20;
+}
+
+
+#_____prev_case_study__ek1 {
+	top: 6103px;
+	left: 578px;
+	width: 195px;
+	height: 31px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#1a1d20;
+}
+
+
+#designed_and_coded_with___and_a_lot_of_coffee__ek3 {
+	top: 6271px;
+	left: 826px;
+	width: 274px;
+	height: 18px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#___manav_ladha_2020__ek3 {
+	top: 6292px;
+	left: 904px;
+	width: 126px;
+	height: 16px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#personal_project {
+	top: 484px;
+	left: 421px;
+	width: 161px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#_1 {
+	top: 2076px;
+	left: 635px;
+	width: 1042px;
+	height: 616px;
+}
+
+
+#_1_ek1 {
+	top: 325px;
+	left: 1016px;
+	width: 619px;
+	height: 366px;
+}
+
+
+#browser_ek1 {
+	top: 2778px;
+	left: 635px;
+	width: 1042px;
+	height: 616px;
+}
+
+
+#_3 {
+	top: 3480px;
+	left: 635px;
+	width: 1042px;
+	height: 616px;
+}
+
+
+#_4 {
+	top: 5276px;
+	left: 635px;
+	width: 1042px;
+	height: 616px;
+}
+
+
+#browser_ek2 {
+	top: 4182px;
+	left: 635px;
+	width: 1042px;
+	height: 1008px;
+}
+
+
+#font_ {
+	top: 1390px;
+	left: 323px;
+	width: 89px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#poppins {
+	top: 1411px;
+	left: 849px;
+	width: 124px;
+	height: 49px;
+	font-family: Poppins;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#aa_bb_cc_dd_ee_ff_gg_hh_ii_jj_kk_ll_mm_nn_oo_pp_qq_rr_ss_tt_uu_vv_ww_xx_yy_zz {
+	top: 1481px;
+	left: 849px;
+	width: 332px;
+	height: 104px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_0_1_2_3_4_5_6_7_8_9____________________ {
+	top: 1590px;
+	left: 849px;
+	width: 225px;
+	height: 72px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__6496ce {
+	top: 1926px;
+	left: 849px;
+	width: 92px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__000000 {
+	top: 1926px;
+	left: 975px;
+	width: 93px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__ffbe2e {
+	top: 1926px;
+	left: 1101px;
+	width: 90px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__f6b1b1 {
+	top: 1926px;
+	left: 1227px;
+	width: 87px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#colours___ {
+	top: 1798px;
+	left: 849px;
+	width: 113px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ellipse_1 {
+	top: 1863px;
+	left: 868px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(100,150,206,255);
+}
+
+
+#ellipse_2 {
+	top: 1863px;
+	left: 994px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(0,0,0,255);
+}
+
+
+#ellipse_3 {
+	top: 1863px;
+	left: 1120px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(255,190,46,255);
+}
+
+
+#ellipse_4 {
+	top: 1863px;
+	left: 1246px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(246,177,177,255);
+}
+
+#page_neighbor_hub_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 12623px;
+	overflow:hidden;
+}
+
+#_bg__neighbor_hub_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 12623px;
+	background:rgba(26,29,32,255);
+}
+
+
+#overview_ek2 {
+	top: 813px;
+	left: 243px;
+	width: 107px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#design_process_ek1 {
+	top: 1243px;
+	left: 243px;
+	width: 171px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#line_6_ek3 {
+	top: 834px;
+	left: 355px;
+	width: 1322.37109375px;
+	height: 1px;
+}
+
+
+#line_7_ek2 {
+	top: 1264px;
+	left: 418px;
+	width: 1259.37109375px;
+	height: 1px;
+}
+
+
+#line_5_ek4 {
+	top: 12289px;
+	left: 262px;
+	width: 1396.1796875px;
+	height: 1px;
+}
+
+
+#line_9_ek2 {
+	top: 12571px;
+	left: 262px;
+	width: 1396.1796875px;
+	height: 1px;
+}
+
+
+#work_ek4 {
+	top: 110px;
+	left: 789px;
+	width: 55px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#about_ek4 {
+	top: 110px;
+	left: 919px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#resume_ek5 {
+	top: 110px;
+	left: 1055px;
+	width: 82px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#neighbor_hub_ek5 {
+	top: 408px;
+	left: 421px;
+	width: 244px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#neighbor_hub_is_a_free_app_which_aims_in_increasing_the_interactions_within_a_society_by_sharing_food_around_ {
+	top: 532px;
+	left: 421px;
+	width: 427px;
+	height: 96px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#personal_project_ek1 {
+	top: 480px;
+	left: 421px;
+	width: 161px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#the_problem_statement {
+	top: 1409px;
+	left: 312px;
+	width: 224px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#inspiration {
+	top: 2067px;
+	left: 312px;
+	width: 184px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#research_ek2 {
+	top: 1732px;
+	left: 312px;
+	width: 164px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#goal {
+	top: 2683px;
+	left: 312px;
+	width: 84px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#user_journey_map {
+	top: 3002px;
+	left: 312px;
+	width: 228px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#paper_wireframe {
+	top: 4175px;
+	left: 312px;
+	width: 294px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#high____fidelity_wireframes_ek1 {
+	top: 5299px;
+	left: 312px;
+	width: 253px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#february_2020___april_2020 {
+	top: 1078px;
+	left: 312px;
+	width: 291px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#about_neighbor_hub {
+	top: 979px;
+	left: 312px;
+	width: 244px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#neighbor_hub_is_an_app_which_aims_at_reuniting_people_living_in_a_society_in_this_era_where_one_hardly_interacts_with_their_neighbour__the_main_motto_of_the_app_is_to_increase_the_interactions_and_support_small_businesses_running_from_home_ {
+	top: 1006px;
+	left: 838px;
+	width: 770px;
+	height: 113px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#we_grew_up_playing_with_kids_in_our_neighborhood__but_as_we_grew_up__our_priorities_changes__meeting_people_around_our_neighbourhood_wasn_t_even_a_routine_anymore__we_got_busy_in_our_lives_and_even_on_weekends__we_always_think_of_resting_at_home_alone_or_w {
+	top: 1400px;
+	left: 838px;
+	width: 770px;
+	height: 235px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#while_i_was_cooking_pasta__i_made_just_double_the_amount_than_i_intended_to__i_quickly_messaged_in_the_whatsapp_group_of_our_society_asking_for_anyone_who_was_interested_in_sharing_the_food__many_people_replied_with_a__yes___that_rang_a_bell_inside_my_mind {
+	top: 2057px;
+	left: 838px;
+	width: 770px;
+	height: 529px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#according_to_a_survey_conducted_nrdc__56__of_people_living_in_a_neighborhood_don_t_meet_with_their_neighbors_even_once_a_week___even_with_living_in_the_same_society__having_houses_at_a_distance_of_10m__people_don_t_talk_to_each_other_much___most_people_who {
+	top: 1722px;
+	left: 838px;
+	width: 770px;
+	height: 248px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#___increase_the_interactions_within_a_society_____support_small_businesses_____reduce_consumer_food_waste_by_empowering_people_to_share_before_they_____spare_ {
+	top: 2673px;
+	left: 838px;
+	width: 748px;
+	height: 231px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#i_started_by_making_sketches_on_sheets_to_quickly_have_a_flow_of_ideas__i_made_the__final_paper_wireframe_as_ {
+	top: 4176px;
+	left: 838px;
+	width: 767px;
+	height: 62px;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#startup_screens__ {
+	top: 5961px;
+	left: 838px;
+	width: 203px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#fonts__ {
+	top: 5284px;
+	left: 838px;
+	width: 81px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#playfair_display_font {
+	top: 5359px;
+	left: 838px;
+	width: 283px;
+	height: 46px;
+	font-family: Playfair Display;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#aa_bb_cc_dd_ee_ff_gg_hh_ii_jj_kk_ll_mm_nn_oo_pp_qq_rr_ss_tt_uu_vv_ww_xx_yy_zz_ek1 {
+	top: 5428px;
+	left: 838px;
+	width: 319px;
+	height: 102px;
+	font-family: Playfair Display;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_0_1_2_3_4_5_6_7_8_9_____________________ek1 {
+	top: 5537px;
+	left: 838px;
+	width: 204px;
+	height: 70px;
+	font-family: Playfair Display;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_0_1_2_3_4_5_6_7_8_9_____________________ek2 {
+	top: 5540px;
+	left: 1271px;
+	width: 217px;
+	height: 67px;
+	font-family: Apercu;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#apercu_font {
+	top: 5363px;
+	left: 1271px;
+	width: 172px;
+	height: 41px;
+	font-family: Apercu;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#aa_bb_cc_dd_ee_ff_gg_hh_ii_jj_kk_ll_mm_nn_oo_pp_qq_rr_ss_tt_uu_vv_ww_xx_yy_zz_ek2 {
+	top: 5428px;
+	left: 1271px;
+	width: 321px;
+	height: 99px;
+	font-family: Apercu;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#login_screen__ {
+	top: 7519px;
+	left: 838px;
+	width: 170px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#item_selection_screen__ {
+	top: 8345px;
+	left: 844px;
+	width: 268px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#item_description_screen__ {
+	top: 9169px;
+	left: 844px;
+	width: 297px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#details_confirmation_screen {
+	top: 10043px;
+	left: 844px;
+	width: 330px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#checkout_screens__ {
+	top: 10928px;
+	left: 844px;
+	width: 229px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#final_thoughts_ek1 {
+	top: 11838px;
+	left: 244px;
+	width: 165px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#line_8_ek1 {
+	top: 11859px;
+	left: 419px;
+	width: 1259.37109375px;
+	height: 1px;
+}
+
+
+#closing_thoughts_ek1 {
+	top: 12021px;
+	left: 312px;
+	width: 158px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#i_loved_working_on_this_app_design_since_it_was_the_first_design_of_my_own_on_which_i_worked_from_scratch_and_researched_for_hours__this_taught_me_many_things_like__a_simple_design_can_also_work_perfectly_when_chosen_with_the_best_pair_of_fonts_and_colours {
+	top: 12022px;
+	left: 838px;
+	width: 770px;
+	height: 138px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#rectangle_19_ek2 {
+	top: 12402px;
+	left: 879px;
+	width: 160px;
+	height: 54px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	border: 1px solid #ffffff;
+	background:rgba(26,29,32,255);
+}
+
+
+#rectangle_20_ek2 {
+	top: 12402px;
+	left: 1111px;
+	width: 243px;
+	height: 56px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_21_ek2 {
+	top: 12402px;
+	left: 551px;
+	width: 243px;
+	height: 56px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(255,255,255,255);
+}
+
+
+#home_ek2 {
+	top: 12418px;
+	left: 932px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#next_case_study___ek2 {
+	top: 12415px;
+	left: 1144px;
+	width: 183px;
+	height: 31px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#1a1d20;
+}
+
+
+#_____prev_case_study__ek2 {
+	top: 12415px;
+	left: 578px;
+	width: 195px;
+	height: 31px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#1a1d20;
+}
+
+
+#designed_and_coded_with___and_a_lot_of_coffee__ek4 {
+	top: 12583px;
+	left: 826px;
+	width: 274px;
+	height: 18px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#___manav_ladha_2020__ek4 {
+	top: 12604px;
+	left: 904px;
+	width: 126px;
+	height: 16px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#group_8_ek1 {
+	top: 3002px;
+	left: 713px;
+	width: 873px;
+	height: 1071px;
+}
+
+
+#os3 {
+	top: 6044px;
+	left: 835px;
+	width: 314px;
+	height: 644px;
+}
+
+
+#os4 {
+	top: 6044px;
+	left: 1221px;
+	width: 313px;
+	height: 644px;
+}
+
+
+#os1 {
+	top: 6775px;
+	left: 835px;
+	width: 314px;
+	height: 645px;
+}
+
+
+#os2 {
+	top: 6775px;
+	left: 1221px;
+	width: 313px;
+	height: 645px;
+}
+
+
+#sign_in {
+	top: 7602px;
+	left: 835px;
+	width: 314px;
+	height: 644px;
+}
+
+
+#location {
+	top: 7602px;
+	left: 1222px;
+	width: 312px;
+	height: 643px;
+}
+
+
+#preferences {
+	top: 8427px;
+	left: 836px;
+	width: 313px;
+	height: 643px;
+}
+
+
+#group_8_ek2 {
+	top: 8427px;
+	left: 1221px;
+	width: 313px;
+	height: 645px;
+}
+
+
+#_2 {
+	top: 9301px;
+	left: 835px;
+	width: 314px;
+	height: 645px;
+}
+
+
+#_3_ek1 {
+	top: 10181px;
+	left: 836px;
+	width: 313px;
+	height: 643px;
+}
+
+
+#_4_ek1 {
+	top: 10181px;
+	left: 1221px;
+	width: 313px;
+	height: 645px;
+}
+
+
+#chckout {
+	top: 11066px;
+	left: 835px;
+	width: 314px;
+	height: 645px;
+}
+
+
+#final {
+	top: 11066px;
+	left: 1222px;
+	width: 312px;
+	height: 643px;
+}
+
+
+#__0b2e44 {
+	top: 5835px;
+	left: 838px;
+	width: 90px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__e8505b {
+	top: 5835px;
+	left: 964px;
+	width: 91px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__a2f8d4 {
+	top: 5835px;
+	left: 1090px;
+	width: 92px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__60aa4d {
+	top: 5835px;
+	left: 1216px;
+	width: 95px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__a1c4d4 {
+	top: 5835px;
+	left: 1342px;
+	width: 92px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#colours____ek1 {
+	top: 5707px;
+	left: 838px;
+	width: 113px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ellipse_1_ek1 {
+	top: 5772px;
+	left: 857px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(11,46,68,255);
+}
+
+
+#ellipse_2_ek1 {
+	top: 5772px;
+	left: 983px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(232,80,91,255);
+}
+
+
+#ellipse_3_ek1 {
+	top: 5772px;
+	left: 1109px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(162,248,212,255);
+}
+
+
+#ellipse_4_ek1 {
+	top: 5772px;
+	left: 1235px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(96,170,77,255);
+}
+
+
+#ellipse_5 {
+	top: 5772px;
+	left: 1361px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(161,196,212,255);
+}
+
+
+#group_1 {
+	top: 327px;
+	left: 421px;
+	width: 53px;
+	height: 53px;
+}
+
+
+#gravity_devices_ui_mockup_set_vol7 {
+	top: 134px;
+	left: 860px;
+	width: 855px;
+	height: 809px;
+}
+
+
+#neighbor_hub_ek6 {
+	top: 4337px;
+	left: 835px;
+	width: 752px;
+	height: 844px;
+}
+
+#page_neighbor_hub___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 11203px;
+	overflow:hidden;
+}
+
+#_bg__neighbor_hub___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 11203px;
+	background:rgba(26,29,32,255);
+}
+
+
+#login {
+	top: 4797px;
+	left: 838px;
+	width: 348px;
+	height: 711px;
+}
+
+
+#medsistant_ek1 {
+	top: 405px;
+	left: 421px;
+	width: 254px;
+	height: 55px;
+	font-family: Raleway;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#overview_ek3 {
+	top: 813px;
+	left: 243px;
+	width: 107px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#design_process_ek2 {
+	top: 1243px;
+	left: 243px;
+	width: 171px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#line_6_ek4 {
+	top: 834px;
+	left: 355px;
+	width: 1322.3720703125px;
+	height: 1px;
+}
+
+
+#line_7_ek3 {
+	top: 1264px;
+	left: 418px;
+	width: 1259.3720703125px;
+	height: 1px;
+}
+
+
+#line_5_ek5 {
+	top: 10863px;
+	left: 262px;
+	width: 1396.1806640625px;
+	height: 1px;
+}
+
+
+#line_9_ek3 {
+	top: 11145px;
+	left: 262px;
+	width: 1396.1806640625px;
+	height: 1px;
+}
+
+
+#work_ek5 {
+	top: 110px;
+	left: 789px;
+	width: 55px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#about_ek5 {
+	top: 110px;
+	left: 919px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#resume_ek6 {
+	top: 110px;
+	left: 1055px;
+	width: 82px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#medsistant_is_a_free_app_which_is_made_by_the_concept_of_merging_modern__technology_with_medical__ {
+	top: 532px;
+	left: 421px;
+	width: 451px;
+	height: 128px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#personal_project_ek2 {
+	top: 480px;
+	left: 421px;
+	width: 161px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#the_problem_statement_ek1 {
+	top: 1409px;
+	left: 312px;
+	width: 224px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#research_ek3 {
+	top: 1714px;
+	left: 312px;
+	width: 164px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#paper_wireframe_ek1 {
+	top: 2093px;
+	left: 312px;
+	width: 294px;
+	height: 49px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#high____fidelity_wireframes_ek2 {
+	top: 3131px;
+	left: 312px;
+	width: 253px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#february_2020___april_2020_ek1 {
+	top: 1078px;
+	left: 312px;
+	width: 291px;
+	height: 32px;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: left;
+	color:#8d8e90;
+}
+
+
+#about_medsistant {
+	top: 979px;
+	left: 312px;
+	width: 229px;
+	height: 91px;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#medsistant_is_a_medical_app_which_helps_your_get_remedies__contact_of_doctors_and_even_hospitals_all_while_sitting_at_your_home_just_by_answering_a_few_questions_about_your_health_status_ {
+	top: 1006px;
+	left: 838px;
+	width: 770px;
+	height: 113px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#while_sitting_in_a_pandemic_or_a_place_where_you_cant_afford_to_go_directly_to_a_hospital_or_you_are_just_too_busy_that_you_can_t_trust_a_doctor__this_app_helps_you_solve_small_problems_to_your_health_by_running_the_answers_you_give__with_its_algorithm_whi {
+	top: 1410px;
+	left: 838px;
+	width: 770px;
+	height: 173px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#according_to_a_survey_conducted_who__world_health_organization___45__of_people_living_poor_villages_do_not_have_facility_for_medical__52__of_working_class_cannot_spend_1_hour_for_a_doctors_appointment_in_a_week__38__of_indians_do_not_go_for_regular_medical {
+	top: 1704px;
+	left: 838px;
+	width: 770px;
+	height: 248px;
+	overflow: hidden;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	color:#ffffff;
+}
+
+
+#i_started_by_making_sketches_on_sheets_to_quickly_have_a_flow_of_ideas__i_made_the__final_paper_wireframe_as__ek1 {
+	top: 2094px;
+	left: 838px;
+	width: 767px;
+	height: 62px;
+	font-family: Raleway;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#startup_screen__ {
+	top: 3793px;
+	left: 838px;
+	width: 191px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#login___sign_up_screens_ {
+	top: 4684px;
+	left: 838px;
+	width: 293px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#get_started_screen_ {
+	top: 6365px;
+	left: 838px;
+	width: 229px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#details_submission_screen__ {
+	top: 7260px;
+	left: 838px;
+	width: 326px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#results_compiled_and_menu_screens__ {
+	top: 8191px;
+	left: 838px;
+	width: 442px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#individual_result_screen__ {
+	top: 9932px;
+	left: 838px;
+	width: 288px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#font__ {
+	top: 3116px;
+	left: 838px;
+	width: 69px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#sf_pro_display {
+	top: 3194px;
+	left: 838px;
+	width: 191px;
+	height: 42px;
+	font-family: SF UI Display;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#aa_bb_cc_dd_ee_ff_gg_hh_ii_jj_kk_ll_mm_nn_oo_pp_qq_rr_ss_tt_uu_vv_ww_xx_yy_zz_ek3 {
+	top: 3263px;
+	left: 838px;
+	width: 306px;
+	height: 99px;
+	font-family: SF UI Display;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_0_1_2_3_4_5_6_7_8_9_____________________ek3 {
+	top: 3372px;
+	left: 838px;
+	width: 202px;
+	height: 67px;
+	font-family: SF UI Display;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_19_ek3 {
+	top: 10976px;
+	left: 879px;
+	width: 160px;
+	height: 54px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	border: 1px solid #ffffff;
+	background:rgba(26,29,32,255);
+}
+
+
+#rectangle_20_ek3 {
+	top: 10976px;
+	left: 1111px;
+	width: 243px;
+	height: 56px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_21_ek3 {
+	top: 10976px;
+	left: 551px;
+	width: 243px;
+	height: 56px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(255,255,255,255);
+}
+
+
+#home_ek3 {
+	top: 10992px;
+	left: 932px;
+	width: 62px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#next_case_study___ek3 {
+	top: 10989px;
+	left: 1144px;
+	width: 183px;
+	height: 31px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#1a1d20;
+}
+
+
+#_____prev_case_study__ek3 {
+	top: 10989px;
+	left: 578px;
+	width: 195px;
+	height: 31px;
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#1a1d20;
+}
+
+
+#designed_and_coded_with___and_a_lot_of_coffee__ek5 {
+	top: 11157px;
+	left: 826px;
+	width: 274px;
+	height: 18px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#___manav_ladha_2020__ek5 {
+	top: 11178px;
+	left: 904px;
+	width: 126px;
+	height: 16px;
+	font-family: Raleway;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__00c2ff {
+	top: 3667px;
+	left: 838px;
+	width: 91px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__00ffff {
+	top: 3667px;
+	left: 964px;
+	width: 90px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__030303 {
+	top: 3667px;
+	left: 1090px;
+	width: 88px;
+	height: 28px;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#colours____ek2 {
+	top: 3539px;
+	left: 838px;
+	width: 113px;
+	height: 35px;
+	font-family: Raleway;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ellipse_1_ek2 {
+	top: 3604px;
+	left: 857px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(0,194,255,255);
+}
+
+
+#ellipse_2_ek2 {
+	top: 3604px;
+	left: 983px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(0,255,255,255);
+}
+
+
+#ellipse_3_ek2 {
+	top: 3604px;
+	left: 1109px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 23px / 23px;
+	-o-border-radius: 23px / 23px;
+	-moz-border-radius: 23px / 23px;
+	-webkit-border-radius: 23px / 23px;
+	border-radius: 23px / 23px;
+	border: 3px solid #ffffff;
+	background:rgba(3,3,3,255);
+}
+
+
+#group_59 {
+	top: 323px;
+	left: 421px;
+	width: 53px;
+	height: 54px;
+}
+
+
+#_1_ek2 {
+	top: 3893px;
+	left: 838px;
+	width: 348px;
+	height: 711px;
+}
+
+
+#login_inside {
+	top: 4791px;
+	left: 1252px;
+	width: 347px;
+	height: 709px;
+}
+
+
+#signup {
+	top: 5577px;
+	left: 838px;
+	width: 348px;
+	height: 711px;
+}
+
+
+#start {
+	top: 6472px;
+	left: 838px;
+	width: 348px;
+	height: 711px;
+}
+
+
+#write_problem {
+	top: 7411px;
+	left: 838px;
+	width: 348px;
+	height: 711px;
+}
+
+
+#scroll {
+	top: 7385px;
+	left: 1251px;
+	width: 348px;
+	height: 711px;
+}
+
+
+#remedy {
+	top: 8316px;
+	left: 838px;
+	width: 348px;
+	height: 711px;
+}
+
+
+#doctor {
+	top: 9124px;
+	left: 838px;
+	width: 348px;
+	height: 711px;
+}
+
+
+#hostpiatl {
+	top: 8316px;
+	left: 1251px;
+	width: 349px;
+	height: 713px;
+}
+
+
+#individual_doctor {
+	top: 10057px;
+	left: 838px;
+	width: 349px;
+	height: 713px;
+}
+
+
+#individual_remedy {
+	top: 10058px;
+	left: 1251px;
+	width: 348px;
+	height: 711px;
+}
+
+
+#side_menu {
+	top: 9124px;
+	left: 1251px;
+	width: 349px;
+	height: 713px;
+}
+
+
+#medsiatant_ {
+	top: 2233px;
+	left: 838px;
+	width: 762.5px;
+	height: 738px;
+}
+
+
+#group_4_ek2 {
+	top: 185px;
+	left: 919px;
+	width: 745px;
+	height: 753px;
+}
+
+
+
+/* Add your custom CSS here */
